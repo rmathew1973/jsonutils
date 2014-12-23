@@ -1,0 +1,25 @@
+{
+	"name": "jsonutils",
+	"author": "Russell Mathews <russell@rdm-solutions.com> (http://www.rdm-solutions.com)",
+	"version": "1.0.0",
+	"description": "Various helper methods for objects and arrays of objects",
+	"scripts": [
+		"index.js"
+	],
+	"contributors": [
+	],
+	"keywords": [
+		"jsonutils",
+		"json",
+		"arrays"
+	],
+	"repository" : {
+		"type": "git",
+		"url": "https://github.com/justmoon/node-extend.git"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	}
+}
+
