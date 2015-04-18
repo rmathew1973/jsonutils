@@ -12,3 +12,5 @@ convertObjectToNameValuePairs does the opposite of convertNameValueArrayToObject
 sortObjectArrayByKey sorts an array by the key passed in.
 
 combineObjects takes an indeterminate number of objects and combines them into one object.
+
+sort_by can be passed to sort function of array to allow sorting on multiple keys of objects in array
